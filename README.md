@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bw6259.
 - 👀 I’m interested in anything to do with technology or problem solving, especially in the life science sector.
-- 🌱 I’m currently learning about artificial intelligence and machine learning in the field of natural language processing.
 - 💞️ I’m looking to collaborate on any problem solving domain; challenge me.
 - 📫 How to reach me; bw6259@gmail.com.
 
